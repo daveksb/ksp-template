@@ -1,6 +1,6 @@
 .container {
   max-width: 1440px;
-  background-image: url("assets/images/BG-secondary.png");
+  background-image: url("./assets/images/BG-secondary.png");
   padding: 180px 238px;
   background-size: cover;
 }
